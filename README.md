@@ -38,8 +38,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/Davi-Soares-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Soares-Silva&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Davi-Soares-Silva&theme=dracula&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4visoares&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4visoares&theme=dracula&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
