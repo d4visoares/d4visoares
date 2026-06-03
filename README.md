@@ -6,7 +6,6 @@
 
 - 💪 &nbsp; Getting better every day as a full stack javascript developer.
 - 💻 &nbsp; Graduated in systems development technician at SENAI Jandira.
-- 🎓 &nbsp; Studying Software Development at Universidade Nove de Julho.
 
 
 ### 🛠 &nbsp;Tech Stack
