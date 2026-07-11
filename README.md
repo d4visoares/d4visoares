@@ -8,11 +8,11 @@ Atualmente atuo como **Coordenador de TI na Pagtel**, liderando iniciativas estr
 
 ## Sobre mim
 
-* 💼 Coordenador de TI na **Pagtel**
-* 🎓 Graduando em **Gestão da Tecnologia da Informação** pela **Impacta Tecnologia**
-* 🎓 Técnico em Desenvolvimento de Sistemas pelo **SENAI Jandira**
-* 🚀 Entusiasta de arquitetura de software, sistemas distribuídos e produtos SaaS
-* ⚙️ Focado em escalabilidade, performance e eficiência operacional
+* Coordenador de TI na **Pagtel**
+* Graduando em **Gestão da Tecnologia da Informação** pela **Impacta Tecnologia**
+* Técnico em Desenvolvimento de Sistemas pelo **SENAI Jandira**
+* Entusiasta de arquitetura de software, sistemas distribuídos e produtos SaaS
+* Focado em escalabilidade, performance e eficiência operacional
 
 ## Áreas de interesse
 
